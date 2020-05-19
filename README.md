@@ -9,6 +9,6 @@ Took a little more time then expected, well it is basic one which offers you 3 o
 3. Well the third option is nothing just a 'exit' option.
 
 Any changes in program would be appreciable.
->'Can add more GUI(s) and can use graphics.h'
+>__Can add more GUI(s) and can use graphics.h__
 
    
