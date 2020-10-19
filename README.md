@@ -1,4 +1,4 @@
-# C++_Periodic_Table
+# C++ Periodic Table
 A Modern Periodic Table C++ Program
 
 Phew,
