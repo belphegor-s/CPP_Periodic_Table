@@ -1,5 +1,5 @@
 # C++ Periodic Table
-A Modern Periodic Table C++ Program
+A Modern Periodic Table C++ Program  
 
 Phew,
 Took a little more time then expected, well it is basic one which offers you 3 option:
