@@ -9,6 +9,6 @@ Took a little more time then expected, well it is basic one which offers you 3 o
 3. Well the third option is nothing just a 'exit' option.
 
 Any changes in program would be appreciable.
->__Require a GUI  (a one which is liked by the user :grin:)__
+>__I like GUI  (everyone does :grin: fork this repo and feel free to modify the code)__
 
    
